@@ -5,20 +5,21 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+- Ruby version
 
-* System dependencies
+- System dependencies
 
-* Configuration
+- Configuration
 
-* Database creation
+- Database creation: SQLite3 database
 
-* Database initialization
+- Database initialization
 
-* How to run the test suite
+- How to run the test suite: rails s if on your system during testing.
 
-* Services (job queues, cache servers, search engines, etc.)
+- Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+- Deployment instructions
 
-* ...
+- ...
+- Team Members: Saka Sheriff Alade and Mariam Musa

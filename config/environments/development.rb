@@ -65,6 +65,8 @@ Rails.application.configure do
   # Annotate rendered view with file names.
   # config.action_view.annotate_rendered_view_with_filenames = true
 
+  #Paperclip.options[:command_path] = 'C:\Program Files (x86)\GnuWin32\bin'
+  
   # Uncomment if you wish to allow Action Cable access from any origin.
   # config.action_cable.disable_request_forgery_protection = true
 
